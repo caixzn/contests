@@ -7,7 +7,7 @@ folder structure explanation:
 - /ac - [AtCoder](https://atcoder.jp)
   * /abc - AtCoder Beginner Contest
 - /cf - [Codeforces](https://codeforces.com)
-  * /\<number> - Regular Round
+  * /round - Regular Round
   * /edu - Educational Round
   * /global - Global Round
   * /codeton - CodeTON Round
