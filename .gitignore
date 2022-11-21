@@ -1,0 +1,9 @@
+*
+!*/
+
+!.gitignore
+!LICENSE
+!README.md
+
+!**/*.cpp
+!**/*.py
